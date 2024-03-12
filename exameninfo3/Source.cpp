@@ -89,5 +89,6 @@ int VIPCliente(DCliente*c, int dim)
 	else
 	{
 		return best;
+			//prueba de github
 	}
 }
