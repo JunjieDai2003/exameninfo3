@@ -83,7 +83,7 @@ int VIPCliente(DCliente*c, int dim)
 	}
 	if (max == 0 || max1 == 0)
 	{
-		
+		printf("NO hay vip\n");
 		return 10000;
 	}
 	else
