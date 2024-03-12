@@ -94,5 +94,6 @@ int VIPCliente(DCliente*c, int dim)
 		//123
 		//asdasdadasdnjjfhjdshfks
 		//hola Junjie
+			// soy Junjie
 	}
 }
